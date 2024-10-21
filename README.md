@@ -1,3 +1,3 @@
 # publicforksynctest
 
-version 5
+version 6
